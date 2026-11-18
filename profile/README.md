@@ -16,7 +16,12 @@ In keeping with the tradition of Magic Lantern and Wonder Lantern, this project 
   <li>The LCD preview vertically squeezes (not crops) the image into the 16:9 preview window</li>
   <li>Playback in camera is working - it plays back using the full LCD screen at 3:2</li>
   <li>VLC plays the file in it's correct ratio, AviDemux does not (VLC uses the real size, AviDemux uses the tag)</li>
+  <li>Davinci Resolve also incorrectly verticually squeezes the footage to 16:9</li>
+  <li>Currentlty this can be fixed with: <em>ffmpeg -i input.mp4 -map 0:v:0 -map 0:a? -c copy -movflags +faststart output.mp4</em></li>
 </ul>
+
+<img width="1423" height="1033" alt="image" src="https://github.com/user-attachments/assets/3ae6487c-639b-45a3-a230-56d0dcbfe14c" />
+
 
 <h3>How can I help?</h3>
 If you want to donate so I can put it towards an A7sIII that I can unlock open gate on that'd be swell
