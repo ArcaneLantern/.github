@@ -26,6 +26,17 @@ In keeping with the tradition of Magic Lantern and Wonder Lantern, this project 
 <b>Preliminary findings:</b> 5760x3840 can be recorded and encoded to the code in 24p. Scalers still need to be checked, and a resolution/sharpness test to show an increase over regular 4K.
 
 
+<h3>A7s I Open Gate</h3>
+This is the Mark I, released in 2014. It currently works at 1.185x crop, for a 30x20mm sensor reading. I have not cracked full frame yet. It also vertically squeezes to 1920x1080 in the output file. I have not succeeded in 1920x1280 or higher yet. I doubt there is much interest in revisiting this.
+<img width="1011" height="1280" alt="photo_2026-11-15_15-00-19" src="https://github.com/user-attachments/assets/ab4e6aa1-1f1e-44da-9441-14a867c8ba7f" />
+
+<h3>Lens and autofocus reverse engineering</h3>
+Also on the roadmap and in (slow) progress. Reasonably understood from the firmware side, some emulators built to collect data from lenses and see how they actually behave given certain signals.<br />
+<b>Can you remove the 15 fps limit with non Sony lenses?</b><br />
+Probably, yes. I do not have a Sony A1 or A9 series to develop on/for however.
+<img width="1216" height="901" alt="photo_2026-11-12_21-31-26" src="https://github.com/user-attachments/assets/eabb2915-49f0-4c4d-958c-7d52bbcb8c2d" />
+
+
 <h3>How can I help?</h3>
 If you want to donate so I can put it towards an A7sIII that I can unlock open gate on that'd be swell (doubtful, but just in case, check back in a few days for details)
 
