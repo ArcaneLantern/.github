@@ -1,4 +1,4 @@
-<h1>Arcande Lantern</h1>
+<h1>Arcane Lantern</h1>
 <p>Arcane Lantern aims to extend Sony Alpha and FX cameras.<br />
 In keeping with the tradition of Magic Lantern and Wonder Lantern, this project is named Arcane Lantern.</p>
 
