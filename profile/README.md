@@ -1,5 +1,5 @@
 <h1>Arcane Lantern</h1>
-<p>Arcane Lantern aims to extend Sony Alpha and FX cameras.<br />
+<p>Arcane Lantern aims to extend Sony Alpha and FX cameras starting with the A7iv.<br />
 In keeping with the tradition of Magic Lantern and Wonder Lantern, this project is named Arcane Lantern.</p>
 
 <p>I am pleased to announce that as of 18th November 2026 <b>full frame open gate</b> for the A7iv has been proven and working in 3840x2560, tested in 24p 10-bit 4:2:2 log in X-AVC S and X-AVC HS. Details to follow in further updates.</p>
