@@ -27,9 +27,12 @@ In keeping with the tradition of Magic Lantern and Wonder Lantern, this project 
 
 
 <h3>How can I help?</h3>
-If you want to donate so I can put it towards an A7sIII that I can unlock open gate on that'd be swell
+If you want to donate so I can put it towards an A7sIII that I can unlock open gate on that'd be swell (doubtful, but just in case, check back in a few days for details)
 
 Willing to test firmware builds and/or write temporary ram settings to a camera?
+
+<h3>When can I test this on my camera</h3>
+I potentially may publish something I think is safe enough to distribute on Sunday night AEDST. There's a few more steps I want to solve, and throw out some more samples before doing so. In any case I will make an update by then on what I plan to do.
 
 <!--
 
