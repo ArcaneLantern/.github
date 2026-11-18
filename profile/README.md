@@ -19,6 +19,9 @@ In keeping with the tradition of Magic Lantern and Wonder Lantern, this project 
   <li>Davinci Resolve also incorrectly verticually squeezes the footage to 16:9</li>
   <li>Currentlty this can be fixed with: <em>ffmpeg -i input.mp4 -map 0:v:0 -map 0:a? -c copy -movflags +faststart output.mp4</em></li>
 </ul>
+<h4>5.7K Open Gate</h4>
+<b>Status:</b> in research<br />
+<b>Preliminary findings:</b> 5760x3840 can be recorded and encoded to the code in 24p. Scalers still need to be checked, and a resolution/sharpness test to show an increase over regular 4K.
 
 <img width="1423" height="1033" alt="image" src="https://github.com/user-attachments/assets/3ae6487c-639b-45a3-a230-56d0dcbfe14c" />
 
