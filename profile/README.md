@@ -15,6 +15,7 @@ In keeping with the tradition of Magic Lantern and Wonder Lantern, this project 
   <li>It is 3840x2560</li>
   <li>The LCD preview vertically squeezes (not crops) the image into the 16:9 preview window</li>
   <li>Playback in camera is working - it plays back using the full LCD screen at 3:2</li>
+  <li>VLC plays the file in it's correct ratio, AviDemux does not (VLC uses the real size, AviDemux uses the tag)</li>
 </ul>
 
 <!--
