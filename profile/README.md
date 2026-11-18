@@ -18,6 +18,9 @@ In keeping with the tradition of Magic Lantern and Wonder Lantern, this project 
   <li>VLC plays the file in it's correct ratio, AviDemux does not (VLC uses the real size, AviDemux uses the tag)</li>
 </ul>
 
+<h3>How can I help?</h3>
+If you want to donate so I can put it towards an A7sIII that I can unlock open gate on that'd be swell
+
 <!--
 
 **Here are some ideas to get you started:**
