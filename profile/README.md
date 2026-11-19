@@ -3,7 +3,7 @@
 In keeping with the tradition of Magic Lantern and Wonder Lantern, this project is named Arcane Lantern.</p>
 
 <p>I am pleased to announce that as of 18th November 2026 <b>full frame open gate</b> for the A7iv has been proven and working in 3840x2560, tested in 24p 10-bit 4:2:2 log in X-AVC S and X-AVC HS. Details to follow in further updates.</p>
-<p>As of 20th November 1:05 AM AEDST - <b>5.7K Open Gate</b> (5760x3840) is now confirmed working</p>
+<p>As of 20th November 1:05 AM AEDST - <b>5.7K Open Gate</b> (5760x3840) is now confirmed working</p>.
 
 <p>I additionally have ~1.19x crop (about 30x20mm portion of the sensor) open gate working on the A7s Mark I, a camera that released in 2014. It currently records to a vertically squeezed 1920x1080 format internally to the SD card.</p>
 
