@@ -49,6 +49,9 @@ Willing to test firmware builds and/or write temporary ram settings to a camera?
 <h3>When can I test this on my camera</h3>
 I potentially may publish something I think is safe enough to distribute on Sunday night AEDST. There's a few more steps I want to solve, and throw out some more samples before doing so. In any case I will make an update by then on what I plan to do.
 
+<h3>What about 4K 100/120 fps?</h3>
+Based on available data, the sensor readout speed is likely way too low even in S35 mode. S35 *might* be able to hand 75 fps, and a 100% centre 4K crop *might* be able handle 100 fps.
+
 <!--
 
 **Here are some ideas to get you started:**
