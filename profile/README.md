@@ -31,7 +31,7 @@ Currently these are just boring proof of concept samples, more to follow</br >
 <img width="1423" height="1033" alt="image" src="https://github.com/user-attachments/assets/3ae6487c-639b-45a3-a230-56d0dcbfe14c" />
 <h4>5.7K Open Gate</h4>
 <b>Status:</b> in research - <b>confirmed</b><br />
-<b>Preliminary findings:</b> 5760x3840 can be recorded and encoded to the code in 24p. Scalers still need to be checked, and a resolution/sharpness test to show an increase over regular 4K.
+<b>Preliminary findings:</b> 5760x3840 can be recorded and encoded in 24p (25p not tested). <s>Scalers still need to be checked, and a resolution/sharpness test to show an increase over regular 4K.</s>
 <p>5.7K is now confirmed - substantial detail increase vs 4K - more to follow</p>
 <img width="1396" height="1252" alt="4K_vs_5 7K_200pc_crop_text" src="https://github.com/user-attachments/assets/bd0cc0a0-91d2-4552-9ff1-cd8b60ea8fb0" />
 
