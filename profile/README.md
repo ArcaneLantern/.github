@@ -22,7 +22,7 @@ Currently these are just boring proof of concept samples, more to follow</br >
   <li><s>The LCD preview vertically squeezes (not crops) the image into the 16:9 preview window</s></li>
   <li>The preview LCD is now also patched and shows 3:2</li>
   <li><b>Desqueeze</b> mapped to C3 for normal (3:2), 1.33x anamorphic (2:1) and 1.6x anamorphic (2.4:1) lenses working</li>
-  <li>Playback in camera is working for 4K (3840x2560) - it plays back using the full LCD screen at 3:2. <b>NB:</b>Playback in camera for 5.7K currently not working, you need to transfer it to a PC</li>
+  <li>Playback in camera is working for 4K (3840x2560) - it plays back using the full LCD screen at 3:2. <b>NB:</b> Playback in camera for 5.7K currently not working, you need to transfer it to a PC</li>
   <li>VLC plays the file in it's correct ratio, AviDemux does not (VLC uses the real size, AviDemux uses the tag)</li>
   <li>Davinci Resolve also incorrectly verticually squeezes the footage to 16:9</li>
   <li>Currentlty this can be fixed with: <em>ffmpeg -i input.mp4 -map 0:v:0 -map 0:a? -c copy -movflags +faststart output.mp4</em></li>
