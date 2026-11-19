@@ -17,7 +17,8 @@ Currently these are just boring proof of concept samples, more to follow</br >
 <ul>
   <li>It samples the entire sensor, no crop</li>
   <li>It is 3840x2560</li>
-  <li>The LCD preview vertically squeezes (not crops) the image into the 16:9 preview window</li>
+  <li><s>The LCD preview vertically squeezes (not crops) the image into the 16:9 preview window</s></li>
+  <li>The preview LCD is now also patched and shows 3:2</li>
   <li>Playback in camera is working - it plays back using the full LCD screen at 3:2</li>
   <li>VLC plays the file in it's correct ratio, AviDemux does not (VLC uses the real size, AviDemux uses the tag)</li>
   <li>Davinci Resolve also incorrectly verticually squeezes the footage to 16:9</li>
