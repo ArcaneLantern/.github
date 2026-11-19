@@ -3,6 +3,7 @@
 In keeping with the tradition of Magic Lantern and Wonder Lantern, this project is named Arcane Lantern.</p>
 
 <p>I am pleased to announce that as of 18th November 2026 <b>full frame open gate</b> for the A7iv has been proven and working in 3840x2560, tested in 24p 10-bit 4:2:2 log in X-AVC S and X-AVC HS. Details to follow in further updates.</p>
+<p>As of 20th November 1:05 AM AEDST - <b>5.7K Open Gate</b> (5760x3840) is now confirmed working</p>
 
 <p>I additionally have ~1.19x crop (about 30x20mm portion of the sensor) open gate working on the A7s Mark I, a camera that released in 2014. It currently records to a vertically squeezed 1920x1080 format internally to the SD card.</p>
 
@@ -17,6 +18,7 @@ Currently these are just boring proof of concept samples, more to follow</br >
 <ul>
   <li>It samples the entire sensor, no crop</li>
   <li>It is 3840x2560</li>
+  <li>Up to <b>5.7K</b> (5760x3840) is now proven</li>
   <li><s>The LCD preview vertically squeezes (not crops) the image into the 16:9 preview window</s></li>
   <li>The preview LCD is now also patched and shows 3:2</li>
   <li><b>Desqueeze</b> mapped to C3 for normal (3:2), 1.33x anamorphic (2:1) and 1.6x anamorphic (2.4:1) lenses working</li>
@@ -28,8 +30,12 @@ Currently these are just boring proof of concept samples, more to follow</br >
 
 <img width="1423" height="1033" alt="image" src="https://github.com/user-attachments/assets/3ae6487c-639b-45a3-a230-56d0dcbfe14c" />
 <h4>5.7K Open Gate</h4>
-<b>Status:</b> in research<br />
+<b>Status:</b> in research - <b>confirmed</b><br />
 <b>Preliminary findings:</b> 5760x3840 can be recorded and encoded to the code in 24p. Scalers still need to be checked, and a resolution/sharpness test to show an increase over regular 4K.
+<p>5.7K is now confirmed - substantial detail increase vs 4K - more to follow</p>
+<img width="1396" height="1252" alt="4K_vs_5 7K_200pc_crop_text" src="https://github.com/user-attachments/assets/bd0cc0a0-91d2-4552-9ff1-cd8b60ea8fb0" />
+
+
 
 
 <h3>A7s I Open Gate</h3>
