@@ -50,8 +50,8 @@ Probably, yes. I do not have a Sony A1 or A9 series to develop on/for however.
 
 
 <h3>How can I help?</h3>
-If you want to donate to the project (doubtful, but just in case)
-<b>Ko-Fi:</b> <a href="https://ko-fi.com/arcanelantern">https://ko-fi.com/arcanelantern</a>
+<p>If you want to donate to the project (doubtful, but just in case)<br />
+<b>Ko-Fi:</b> <a href="https://ko-fi.com/arcanelantern">https://ko-fi.com/arcanelantern</a></p>
 
 Willing to test firmware builds and/or write temporary ram settings to a camera repeatedly and collect logs?
 
