@@ -1,4 +1,12 @@
 <h1>Arcane Lantern</h1>
+
+<br />
+
+
+
+  [![Discord Server](https://discord.com/api/guilds/1572476739429597224/widget.png?style=banner2)](https://discord.gg/YPPTm44rz)
+<br />
+
 <p>Arcane Lantern aims to extend Sony Alpha and FX cameras starting with the A7iv.<br />
 In keeping with the tradition of Magic Lantern and Wonder Lantern, this project is named Arcane Lantern.</p>
 
@@ -56,8 +64,8 @@ Probably, yes. I do not have a Sony A1 or A9 series to develop on/for however.
 Willing to test firmware builds and/or write temporary ram settings to a camera repeatedly and collect logs?
 
 <h3>When can I test this on my camera</h3>
-I potentially may publish something I think is safe enough to distribute on Sunday night AEDST. There's a few more steps I want to solve, and throw out some more samples before doing so. In any case I will make an update by then on what I plan to do.
-
+You can test it now with the temporary patches! This even includes an Android app for portability/location use<br />
+<a href="https://github.com/ArcaneLantern/a7iv-open-gate-test">https://github.com/ArcaneLantern/a7iv-open-gate-test</a>
 <h3>What about 4K 100/120 fps?</h3>
 Based on available data, the sensor readout speed is likely way too low even in S35 mode. S35 *might* be able to hand 75 fps, and a 100% centre 4K crop *might* be able handle 100 fps.
 
