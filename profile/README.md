@@ -21,6 +21,8 @@ In keeping with the tradition of Magic Lantern and Wonder Lantern, this project 
 Currently these are just boring proof of concept samples, more to follow</br >
 <a href="https://drive.google.com/drive/folders/13UgRZBylJ_KSi7itRVJ3Ug6_rnbra2y4?usp=drive_link">https://drive.google.com/drive/folders/13UgRZBylJ_KSi7itRVJ3Ug6_rnbra2y4?usp=drive_link</a>
 
+<h3>A7sIII</h3><br />
+<p>Currently waiting on testing</p>
 
 <h3>Current state of open gate for the A7iv</h3>
 <ul>
